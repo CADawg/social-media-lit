@@ -23,6 +23,6 @@ Welcome, to the remains of the Social Media Lit blog, originally located at http
 - [The Societal Implications of Social Media - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/societal-implications-social-media/index.html)
 
 
-**Copyright 2018 | Conor Howland and The Social Media Lit Team. All Rights Reserved**
+**Copyright 2018 | Conor Howland and The Social Media Lit Team | All Rights Reserved**
 
 *This is NOT FREE Content, And Should not be reproduced without prior permission from Conor Howland*
