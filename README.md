@@ -1,2 +1,1 @@
-# smlit
-Forever in memory of SMLIT.ML
+# Social Media Lit
