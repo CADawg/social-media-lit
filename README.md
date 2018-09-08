@@ -12,7 +12,7 @@ Welcome, to the remains of the Social Media Lit blog, originally located at http
 - [** ***EXPOSED*** ** Social Media Use - 19/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/exposed-social-media-use/index.html)
 - [The Historical Development of Social Media - 15/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/historical-development-social-media/index.html)
 - [How social media companies can improve privacy - 26/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/how-social-media-companies-can-improve-privacy/index.html)
-- [How you can Protect your Privacy Online - WIP](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/how-you-can-protect-your-privacy-online/index.html)
+- [How you can Protect your Privacy Online - 09/09/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/how-you-can-protect-your-privacy-online/index.html)
 - [Key Concepts Of Social Media - 16/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/key-concepts-social-media/index.html)
 - [Companies that Provide Social Media Services - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/main-companies-social-media/index.html)
 - [How to Protect your Data Online - 22/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/protect-data-online/index.html)
