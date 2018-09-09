@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Personal Data Abuse by Social Media Enterprises
 date: 2018-04-16
 tags: ["cambridge analytica","Corporations","dishonest","facebook","Protection","scandal","Security","social media","syphoning","zucc","zuckerberg"]
 ---
+
+# Personal Data Abuse by Social Media Enterprises
 
 As we all know, social media companies sell our personal data to make money, but sometimes they go too far, this is highlighted by the recent wake up to the [Facebook data Mining](https://smlit.ml/current-events-facebook-data-mining/) done by Cambridge Analytica.
 
@@ -14,7 +15,8 @@ This shows how relaxed social media companies are about their user's data, but i
 Just recently, on the 21st of March, I wrote about the Cambridge Analytica data mining, which you can read [here](https://smlit.ml/current-events-facebook-data-mining/), but I will also recap the main points here.
 > ## _Facebook Data Mining_
 > 
-> _A firm, known as Cambridge Analytica has been misusing around 50 Million Facebook users' private information. This firm does political consultancy. They have been consultants to Donald Trump in the 2016 election._> 
+> _A firm, known as Cambridge Analytica has been misusing around 50 Million Facebook users' private information. This firm does political consultancy. They have been consultants to Donald Trump in the 2016 election._
+> 
 > 
 > _They are not the only ones doing this, though, many other apps have syphoned facebook users' data too. These include FarmVille, Tinder and Political Consultants from Obama's 2012 presidential campaign. These companies have syphoned huge amounts of data about users and their friends, developing a good understanding of the users' relationships and preferences._
 As you can probably tell from this small snippet, this probably isn't in the best interest of many Facebook users and their friends. This also shows one of the worst parts of it, because even if you were careful and didn't use the app if your friends did, a substantial amount of your data could have been leaked. This was used to then model and advertise and persuade them to vote a certain way, not a very **honest** way of collecting data.
@@ -28,11 +30,14 @@ The thing is, Facebook is a company. At the end of the day, as long as they make
 What Facebook did is like leaving a tap out in the open, but turned off. You have to find it first, but as soon as you are there, you can take as much water as you want once the tap is on. It really is a terrible way to operate your service (Serve companies all of your data first, then deal with it when the judge comes knocking).
 > ### What is happening now?
 > 
-> Facebook has finally opened their eyes and in 2015 decided to change its policy. But as we can clearly tell because this post exists, that hasn't worked out all too great!> 
+> Facebook has finally opened their eyes and in 2015 decided to change its policy. But as we can clearly tell because this post exists, that hasn't worked out all too great!
 > 
-> Now, what is allowed by FB and how it told users is under a fresh light due to these events. They have said that they will review what Cambridge Analytica did. Also, they will check whether they have complied with Facebook's demands.> 
 > 
-> Facebook did nothing more than ask Cambridge Analytica to delete the information they had collected. CA have defended themselves by saying that it clearly states what they will be able to access.> 
+> Now, what is allowed by FB and how it told users is under a fresh light due to these events. They have said that they will review what Cambridge Analytica did. Also, they will check whether they have complied with Facebook's demands.
+> 
+> 
+> Facebook did nothing more than ask Cambridge Analytica to delete the information they had collected. CA have defended themselves by saying that it clearly states what they will be able to access.
+> 
 > 
 > "This app will receive the following info: your public profile, friend list, birthday, groups, current city, photos, and personal description and your friends' birthdays, photos, and likes."
 Now, let's go back in time to another event like this...
@@ -42,7 +47,8 @@ Now, let's go back in time to another event like this...
 Read The Full Story [Here](https://www.theguardian.com/technology/2015/aug/09/facebook-privacy-settings-users-mobile-phone-number)
 
 It's not always Facebook, but they are a big target. Here is yet another story, from back in 2015. Software engineers managed to get some information that they shouldn't have been able to get out of Facebook (or at least so you'd hope).
-> Facebook has been urged to tighten its privacy settings after a software engineer was able to harvest personal data about thousands of users - simply by guessing their mobile numbers.> 
+> Facebook has been urged to tighten its privacy settings after a software engineer was able to harvest personal data about thousands of users - simply by guessing their mobile numbers.
+> 
 > 
 > The developer obtained the names, profile pictures and locations of users who had linked their mobile number to their Facebook account but had chosen not to make it public.
 This shows another serious issue allowing data to be syphoned out of Facebook again. It's like Facebook is a fountain of personal data, just waiting to be hacked... _Oh, wait._ That's exactly what it is!
