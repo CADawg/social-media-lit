@@ -4,12 +4,10 @@ title: Current Developments in Social Media
 date: 2018-03-15
 tags: ["360","Developments","facebook","Growth","instagram","live video","media","modern media","social media","twitter","video","youtube"]
 ---
-<link rel="stylesheet" href="/social-media-lit/assets/css/style.css?v=8c7e1911216b67be5929c3457289a43c9f9f20ef">
-Social media is forever growing, with new developments all the time, the amount of change within even a single year is remarkable.
-
-&nbsp;
 
 ## Current Developments:
+
+Social media is forever growing, with new developments all the time, the amount of change within even a single year is remarkable
 
 ### Live Video:
 
