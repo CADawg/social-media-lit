@@ -1,6 +1,6 @@
 # Homepage
 
-Welcome, to the remains of the Social Media Lit blog, originally located at https://smlit.ml, this blog contains content about social media, privacy and other topics concerning **Social Media Lit**eracy, hence the name.
+Welcome, to the remains of the Social Media Lit blog, originally located at https://smlit.ml, now http://www.conor.icu/social-media-lit this blog contains content about social media, privacy and other topics concerning **Social Media Lit**eracy, hence the name.
 
 ### Here is a list of our quality articles:
 
