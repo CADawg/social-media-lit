@@ -2,7 +2,9 @@
 
 Welcome, to the remains of the Social Media Lit blog, originally located at https://smlit.ml, now http://www.conor.icu/social-media-lit this blog contains content about social media, privacy and other topics concerning **Social Media Lit**eracy, hence the name.
 
-### Here is a list of our quality articles:
+---
+
+## Articles:
 
 - [Current Developments in Social Media - 15/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/current-developments-social-media/index.html)
 - [Current Events: Facebook Data Mining - 21/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/current-events-facebook-data-mining/index.html)
@@ -22,7 +24,10 @@ Welcome, to the remains of the Social Media Lit blog, originally located at http
 - [Social Media: The Main Types - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/social-media-types/index.html)
 - [The Societal Implications of Social Media - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/societal-implications-social-media/index.html)
 
+---
 
-Copyright 2018 | Conor Howland and The Social Media Lit Team | All Rights Reserved
+Copyright 2018 *Conor Howland* and *The Social Media Lit Team*. **All Rights Reserved**
+
+---
 
 *This is NOT FREE Content, And Should not be reproduced without prior permission from Conor Howland*
