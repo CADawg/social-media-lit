@@ -1,13 +1,10 @@
 ---
-layout: post
 title: The Historical Development of Social Media
 date: 2018-03-15
 tags: ["Developments","facebook","historical","history","instagram","social media","twitter"]
 ---
 
-Howdy, Y'all! Stephen H here. Coming back at you with another blog post about how lit social media is!
-
-&nbsp;
+# The Historical Development of Social Media
 
 Today's topic is the historical development of social media. Social media has been around for a lot longer than you may imagine although it is the hottest of the trends right now. Websites like Facebook are a true representation of the development of social media over decades.
 
