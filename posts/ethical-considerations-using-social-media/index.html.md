@@ -20,8 +20,4 @@ The internet contains a whole heap of data and it is always a topic of debate an
 
 Identity theft is another scary example of ethical issues in social networking. It is a form of technique used by criminals to pretend to be someone you are not with intention to pursue or commit for crime. The victim will be held to be responsible for the consequences of fraud or action done the impersonators. Identity theft on the Internet can happen by either creating a fake account or stealing and hacking the password of the victim.
 
-### 
-
-some of this handy info came from [https://cariblogger.com/ethical-issues-in-social-networking/](https://cariblogger.com/ethical-issues-in-social-networking/)
-
-see u soon
+Check out [this website](https://cariblogger.com/ethical-issues-in-social-networking/) for more information!
