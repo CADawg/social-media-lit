@@ -1,11 +1,10 @@
 ---
-layout: post
 title: The Societal Implications of Social Media
 date: 2018-03-20
 tags: ["Computers","Conor Howland","Growth","Implications","Internet","Main Types Of Social Media","Security","social media","Technology","Toshiba"]
 ---
 
-# Societal Implications of Social Media
+# The Societal Implications of Social Media
 
 Social media has been quickly shaping the world that we live in today. From how people communicate with each other from day to day, to how businesses connect with customers. YouTube, Twitter, Instagram, Facebook and Snapchat are all considered the 5 main media sites all access millions of millions of times each month. Something this big has this just has to have implications.
 
