@@ -1,11 +1,12 @@
 ---
-layout: post
 title: How social media companies can improve privacy
 date: 2018-04-26
 tags: ["Protection","Security"]
 ---
 
-As we can tell from recent events, social media companies don't take our [privacy](https://smlit.ml/social-media-personal-data-abuse/) all to [seriously](https://smlit.ml/current-events-facebook-data-mining/)!
+# How social media companies can improve privacy
+
+As we can tell from recent events, social media companies don't take our [privacy](/social-media-lit/posts/social-media-personal-data-abuse/index.html) all to [seriously](/social-media-lit/posts/current-events-facebook-data-mining/index.html)!
 
 ## Minimising Data
 
