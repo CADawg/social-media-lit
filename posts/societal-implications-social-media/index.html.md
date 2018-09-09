@@ -20,7 +20,7 @@ The Protection from Harassment Act 1997 and the Sexual Offenses Act 2003 both wo
 
 ### Physical Meetings
 
-Most kids now prefer to play Minecraft or CS:GO on there £1500 computers instead of going out to play football or literally anything else.  This is an example of how easy its become to just stay inside and speak to your mates through FaceTime, Skype or TeamSpeak.
+Most kids now prefer to play Minecraft or CS:GO on their £1500 computers instead of going out to play football or literally anything else.  This is an example of how easy its become to just stay inside and speak to your mates through FaceTime, Skype or TeamSpeak.
 
 &nbsp;
 
@@ -28,6 +28,8 @@ Most kids now prefer to play Minecraft or CS:GO on there £1500 computers instea
 
 Sources:
 
-[smallbiztrends.com-social-media-sites-statistics](https://smallbiztrends.com/2015/07/social-media-sites-statistics.html)
+[SmallBizTrends - Social Media Site Statistics](https://smallbiztrends.com/2015/07/social-media-sites-statistics.html)
 
-[http://www.simplilearn.com/real-impact-social-media-article](http://www.simplilearn.com/real-impact-social-media-article)
+[The Real Impacts Of Social Media](http://www.simplilearn.com/real-impact-social-media-article)
+
+Last Updated: 09/09/2018 By Conor Howland
