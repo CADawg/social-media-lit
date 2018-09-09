@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Companies that Provide Social Media Services
 date: 2018-03-19
 tags: ["Companies","Corporations","Main Types Of Social Media"]
 ---
+
+# Companies that Provide Social Media Services
 
 All popular social media is owned by corporations, companies with hundreds of employees and makes thousands of pounds a day. These corporations include, but are not limited to:
 
