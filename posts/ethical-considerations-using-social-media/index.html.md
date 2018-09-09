@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ethical Considerations Of Using Social Media
 date: 2018-04-19
 tags: ["data","Developments","ethical","ethical issues","Ethics","Growth","privacy of data","Protect Data","Protection","Security","social media","social media ethics"]
