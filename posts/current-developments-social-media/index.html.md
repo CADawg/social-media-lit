@@ -2,7 +2,6 @@
 layout: post
 title: Current Developments in Social Media
 date: 2018-03-15
-tags: ["360","Developments","facebook","Growth","instagram","live video","media","modern media","social media"]
 ---
 
 ## Current Developments:
