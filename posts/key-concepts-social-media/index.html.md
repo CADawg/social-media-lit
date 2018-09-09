@@ -1,17 +1,16 @@
 ---
-layout: post
 title: Key Concepts Of Social Media
 date: 2018-04-16
 tags: ["audio","Concepts","conference","Social Capital","Social Inteligence","Social Presence","Social Production","video","webinar"]
 ---
 
-When talking about social media, there are some key concepts that you should have a grasp of, as these will help you to understand the **social media ecosystem. **These Include:
+When talking about social media, there are some key concepts that you should have a grasp of, as these will help you to understand the **social media ecosystem.**
+These Include:
 
 *   Social Presence
 *   Social Capital
 *   Social Production
 *   Social Intelligence
-<!--more-->
 
 # Concepts:
 
@@ -46,7 +45,8 @@ So, Put simply, social capital is the quality of social interactions in a certai
 This is people working together to contribute resources to a project of which they are not paid or directly rewarded.
 
 Social production is usually about a digital environment. What is special about this? What means that we keep using it, and keep contributing, for, well, nothing. Also, is it worthwhile for these contributors to do so?
-> Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing.> 
+> Human nature is not a machine to be built after a model, and set to do exactly the work prescribed for it, but a tree, which requires to grow and develop itself on all sides, according to the tendency of the inward forces which make it a living thing.
+> 
 > 
 > "Such are the differences among human beings in their sources of pleasure, their susceptibilities of pain, and the operation on them of different physical and moral agencies, that unless there is a corresponding diversity in their modes of life, they neither obtain their fair share of happiness, nor grow up to the mental, moral, and aesthetic stature of which their nature is capable."
 
