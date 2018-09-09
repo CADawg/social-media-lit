@@ -1,12 +1,11 @@
 ---
-layout: post
 title: The Dangers of Social Media to You & Friends
 date: 2018-04-23
 ---
 
-Social media has a lot of positives on society, however as with everything there's a twist. Social media also can be very dangerous if used with malicious intent.
+# The Dangers of Social Media to You & Friends
 
-<!--more-->
+Social media has a lot of positives on society, however as with everything there's a twist. Social media also can be very dangerous if used with malicious intent.
 
 ## Privacy
 
