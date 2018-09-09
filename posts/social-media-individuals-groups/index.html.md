@@ -4,6 +4,8 @@ date: 2018-04-25
 tags: ["Uses"]
 ---
 
+# Uses for Social Media to Individuals and Groups
+
 The uses for social media are immense. Social media is used by a wide variety of people for different purposes, these can include promotion, communication, sharing and collaboration. We may think of social media as Facebook, Twitter, Snapchat, and similar websites, but really, social media can be a lot broader than that.
 
 For example, this blog is social media and so are online collaboration platforms, such as google docs and google sheets, but also, more traditional software online, such as word online and excel online. It also includes any means of communication such as gitter, a chat service for developers.
