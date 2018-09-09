@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Protect your Data Online
 date: 2018-03-22
 tags: ["Anti-Virus","Passwords","privacy","Protect Data","Security","social media"]
 ---
+
+# How to Protect your Data Online
 
 Howdy y'all! Stephen H here. Coming back at you with another blog post about how lit social media is!
 
@@ -11,11 +12,13 @@ Howdy y'all! Stephen H here. Coming back at you with another blog post about how
 
 Today's topic is on how you can protect yourself whilst surfing the web. The internet can be a great way to interact with others and make new friends however there can be some negatives to using the internet.
 
-<!--more-->
+---
 
 ### Negatives of Using the Internet
 
 These negatives could include identity theft, people using awareness of your activities and movements to act against you and employers using the information to exploit you, these are all common threats that could happen to someone like you if you don't protect yourself properly online.
+
+---
 
 ### Ways to Protect yourself
 
