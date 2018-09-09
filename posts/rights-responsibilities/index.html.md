@@ -1,13 +1,12 @@
 ---
-layout: post
-title: Rights and Responsibility Of Social Media
+title: Rights and Responsibilies Of Social Media
 date: 2018-04-23
 tags: ["data","online","privacy","responsibilities","rights","secruity","Security","social","social media"]
 ---
 
-Being online and using social media comes with many rights and responsibilities that you should abide by to make the online community a safer and more enjoyable place for all. Companies and services should also abide by the same rules to ensure your trust and reliability online. This post is helpful for you guys that aren't quite sure where to start when it comes to your rights online and how to be responsible.
+# Rights and Responsibilies Of Social Media
 
-&nbsp;
+Being online and using social media comes with many rights and responsibilities that you should abide by to make the online community a safer and more enjoyable place for all. Companies and services should also abide by the same rules to ensure your trust and reliability online. This post is helpful for you guys that aren't quite sure where to start when it comes to your rights online and how to be responsible.
 
 ## Rights
 
