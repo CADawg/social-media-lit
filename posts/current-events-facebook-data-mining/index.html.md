@@ -4,12 +4,16 @@ title: Current Events: Facebook Data Mining
 date: 2018-03-21
 tags: ["current","Current Events","facebook","Implications","Internet","privacy","Technology","Toshiba"]
 ---
+# Current Events: Facebook Data Mining
+
 
 ## Facebook Data Mining
 
 A firm, known as Cambridge Analytica has been misusing around 50 Million Facebook users' private information. This firm does political consultancy. They have been consultants to Donald Trump in the 2016 election.
 
 They are not the only ones doing this, though, many other apps have syphoned facebook users' data too. These include FarmVille, Tinder and Political Consultants from Obama's 2012 presidential campaign. These companies have syphoned huge amounts of data about users and their friends, developing a good understanding of the users' relationships and preferences.
+
+---
 
 ### How did they do this?
 
@@ -20,9 +24,13 @@ Sign in through FB came around in 2007 when Mark Zuckerberg invited developers t
 The app they used was This Is Your Digital Life", offering personality predictions. Then used to harvest this data from users.
 > It was easy for app developers to access users and their friend's data
 
+---
+
 ### Why would they do this?
 
 The information aforementioned is of very high value to marketers and political campaigners as they can really target a user. So as to try and heavily persuade them to buy this or do that or vote for this that and the other. This is also used for fundraisers. As well as all this, the developers could keep the data forever, **NO RESTRICTIONS WHATSOEVER!**
+
+---
 
 ### What is happening now?
 
@@ -35,6 +43,8 @@ Now, what is allowed by FB and how it told users is under a fresh light due to t
 Facebook did nothing more than ask Cambridge Analytica to delete the information they had collected. CA have defended themselves by saying that it clearly states what they will be able to access.
 > This app will receive the following info: your public profile, friend list, birthday, groups, current city, photos, and personal description and your friends' birthdays, photos, and likes.
 You can do something about this if you use FB!
+
+---
 
 ### What Can I Do?
 
