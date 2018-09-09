@@ -18,7 +18,7 @@ Welcome, to the remains of the Social Media Lit blog, originally located at smli
 - [Key Concepts Of Social Media - 16/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/key-concepts-social-media/index.html)
 - [Companies that Provide Social Media Services - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/main-companies-social-media/index.html)
 - [How to Protect your Data Online - 22/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/protect-data-online/index.html)
-- [Rights and Responsibility Of Social Media - 23/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/rights-responsibilities/index.html)
+- [Rights and Responsibilities Of Social Media - 23/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/rights-responsibilities/index.html)
 - [Uses for Social Media to Individuals and Groups - 25/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/social-media-individuals-groups/index.html)
 - [Personal Data Abuse by Social Media Enterprises - 16/04/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/social-media-personal-data-abuse/index.html)
 - [Social Media: The Main Types - 19/03/2018](https://snaddyvitch-dispenser.github.io/social-media-lit/posts/social-media-types/index.html)
