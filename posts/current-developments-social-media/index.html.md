@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Current Developments in Social Media
 date: 2018-03-15
 ---
