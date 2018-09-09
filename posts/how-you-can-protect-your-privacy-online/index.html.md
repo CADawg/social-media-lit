@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How you can Protect your Privacy Online
 date: 2018-09-09
 tags: ["Protection","Security"]
