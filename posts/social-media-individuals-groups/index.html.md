@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Uses for Social Media to Individuals and Groups
 date: 2018-04-25
 tags: ["Uses"]
