@@ -56,6 +56,8 @@ That's all you may need to know about protecting your private information online
 
 To find out more click this link: [https://digitalguardian.com/blog/101-data-protection-tips-how-keep-your-passwords-financial-personal-information-safe](https://digitalguardian.com/blog/101-data-protection-tips-how-keep-your-passwords-financial-personal-information-safe)
 
+Also, check out this awesome article on [Identity Theft & How to protect yourself from cybercrime!](https://www.creditcards.com/credit-card-news/cybercrime-fear-safety-tips/)
+
 &nbsp;
 
 See you dudes later! - Stephen H
